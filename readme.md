@@ -16,7 +16,7 @@ sudo pip install names
 ```
 
 # Why?
-When I first started in the venture of making the database for the annual SPCA Theme Basket Auction, I struggled to find anonymous, and realistic data to fill it with. So I made a first iteration this application when I first started learning Python.
+When I first started in the venture of making the database (dubbed "Ticket Auction Manager" or "TAM") for the annual SPCA Theme Basket Auction, I struggled to find anonymous, and realistic data to fill it with. So I made a first iteration this application when I first started learning Python.
 
 This version is simply me applying what I have learned so far to make a better organized and commented version of this application explained above.
 
